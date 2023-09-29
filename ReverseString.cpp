@@ -1,5 +1,7 @@
 // Reverse a String: Write a function to reverse a string without using built-in string reversal functions.
 
+//Traditional For Loop
+
 #include <iostream>
 using namespace std;
 
